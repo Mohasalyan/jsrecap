@@ -1,0 +1,13 @@
+1. Which of the following variables have global scope?
+ B. Variables declared outside of any function
+ *****************
+ 2.What will the following code output?
+ the output will be = 2;
+ *****************
+2. What does block scope mean?
+C. The variable is only accessible within the block where it is defined.
+*******************
+1. Variables declared with var are function-scoped.(true)
+2. Variables declared with let within a loop are accessible outside of the loop.(false)
+3. It is possible to redeclare a variable that was initially declared with let using var.(false)
+4. Global variables are accessible in any part of the code.(true)
